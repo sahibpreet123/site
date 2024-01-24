@@ -1,11 +1,10 @@
-import React from 'react';
-// import logo from './logo.svg'; // Remove this line if logo is not used
+import './App.css';
 
 function App() {
   return (
-    <div>
-      <header>
-        <h1>codin 1</h1>
+    <div className="App">
+      <header className="App-header">
+        <h1>codin1</h1>
       </header>
     </div>
   );
